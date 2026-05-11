@@ -1,4 +1,5 @@
-🏆 Master Competitive Programming — CPS Academy Journey
+# Hazrat Ali
+
 
 Master-Competitive-Programming-at-CPS-Academy is a structured repository documenting the journey of mastering competitive programming through CPS Academy.
 It includes problem-solving techniques, algorithm implementations, contest practice, and learning resources aimed at building strong coding and analytical skills.
