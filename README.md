@@ -1,6 +1,6 @@
 # Hazrat Ali
 
-# SofTware Engineering
+# Software Engineering
 
 
 Master-Competitive-Programming-at-CPS-Academy is a structured repository documenting the journey of mastering competitive programming through CPS Academy.
