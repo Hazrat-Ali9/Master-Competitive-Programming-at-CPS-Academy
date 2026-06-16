@@ -1,6 +1,6 @@
 # Hazrat Ali
 
-# Software Engineering || Programmer || Engineering
+# Software Engineering || Programmer ||
 
 # CEO & Founder HMSoftTecH Innovation
 
