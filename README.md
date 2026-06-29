@@ -2,7 +2,7 @@
 
 # Software Engineering || Programmer ||
 
-# CEO & Founder HMSoftTecH nnovation
+# CEO & Founder HMSoftTecH Innovation
 
 
 Master-Competitive-Programming-at-CPS-Academy is a structured repository documenting the journey of mastering competitive programming through CPS Academy.
